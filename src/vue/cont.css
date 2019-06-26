@@ -1,0 +1,130 @@
+@font-face{
+    font-family: 'YanoneKaffeesatz-Regular';
+    src: url('../fonts/YanoneKaffeesatz-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+    }
+body {
+    padding: 0;
+    margin: 0;
+    background: url(../img/Background-3.jpg) no-repeat center top / cover;
+}
+header {
+    background: url(../img/header/Top-Bar.jpg) no-repeat center top / cover;
+    height: 140px;
+}
+/* .logo-top {
+    text-align: center;
+    line-height: 140px;
+} */
+.social img{    
+    margin: 5px;
+    padding: 5px;
+}
+.social {
+    /* display: flex; */
+    /* justify-content: flex-start; */
+    /* align-items: center; */
+}
+/* .head-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+td {
+    /* border: 1px solid grey; */
+    height: 140px;
+}
+.td1 {
+    width: 460px;
+}
+.td2 {
+}
+.td3 {
+    width: 460px;
+}
+.container-1 {
+    align-content: space-between;
+}
+.tir-1 {
+    width: 1366px;
+    margin: auto;
+    /* margin: 65px; */
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.tir-2 {
+    width: 1366px;
+    margin: auto;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.container-2 {
+    background: url(../img/cont-2.jpg) no-repeat center top / cover;
+    height: 460px;
+    width: 67%;
+    margin: 50px auto;
+    text-align: center;
+}
+.container-2-1 {
+    width: 60%;
+    margin: auto;
+    padding: 6em 0;
+    height: 400px;
+    /* line-height: 400px; */
+    /* text-align: center; */
+}
+.container-3 {
+    /* background: url(../img/cont-2.jpg) no-repeat center top / cover; */
+    height: 430px;
+    width: 67%;
+    margin: 50px auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+.container-3-1 {
+    width: 867px;
+    /* margin: auto; */
+    padding: 6em 0;
+    height: 430px;
+    background: url(../img/cont-3-bck-1.jpg) no-repeat center;
+}
+.container-3-2 {
+    background: url(../img/cont-3-bck-2.jpg) no-repeat center;
+    width: 330px;
+    /* margin: 50px auto; */
+    padding: 6em 0;
+    height: 430px;
+}
+.container-4 {
+    /* background: url(../img/cont-2.jpg) no-repeat center top / cover; */
+    height: 430px;
+    width: 67%;
+    margin: 50px auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+.container-4-1 {
+    width: 867px;
+    /* margin: auto; */
+    padding: 6em 0;
+    height: 430px;
+    background: url(../img/cont-3-bck-1.jpg) no-repeat center;
+}
+.container-4-2 {
+    background: url(../img/cont-3-bck-2.jpg) no-repeat center;
+    width: 330px;
+    /* margin: 50px auto; */
+    padding: 6em 0;
+    height: 430px;
+}
