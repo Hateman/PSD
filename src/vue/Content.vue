@@ -172,37 +172,7 @@
         </div>     
     </div>
 
-    <footer>
-      <div class="foot-container">
-        <table>
-          <tr>
-
-        <td class="td1">
-          <div class="social">
-          <img  src="../img/footer/1.png"/>
-          <img  src="../img/footer/2.png"/>
-          <img  src="../img/footer/3.png"/>
-          <img  src="../img/footer/4.png"/>
-          <img  src="../img/footer/5.png"/>
-        </div>
-        </td>
-
-        <td class="td2">
-          <p class="logo-top">
-          <img  src="../img/footer/Logo-AgencyFB.png"/>
-        </p>
-        </td>
-
-        <td class="td3">
-          <p class="logo-top">
-          <img  src="../img/footer/menu.png"/>
-        </p>
-        </td>
-
-        </tr>
-        </table>
-      </div>
-    </footer>
+    
 <!-- container 5 - Contact us + Random posts ======================================================================================================== -->
     
 
